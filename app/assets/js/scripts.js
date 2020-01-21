@@ -6,12 +6,7 @@
  * @version 1.0.5
  * Copyright 2020. MIT licensed.
  */
-(function ($, window, document, undefined) {
+"use strict";
 
-  'use strict';
-
-  $(function () {
-    // FastShell
-  });
-
-})(jQuery, window, document);
+var es6 = 'This is a variable declared with const';
+console.log(es6);
