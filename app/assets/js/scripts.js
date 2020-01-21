@@ -6,7 +6,5 @@
  * @version 1.0.5
  * Copyright 2020. MIT licensed.
  */
-"use strict";
-
-var es6 = 'This is a variable declared with const';
+const es6 = 'This is a variable declared with const';
 console.log(es6);
